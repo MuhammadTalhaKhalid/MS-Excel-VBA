@@ -3,6 +3,7 @@ Dim j As Integer
 
 
 Sub dup()
+cls
 
 For i = 4 To 127
 
@@ -51,3 +52,4 @@ Cells(i, 26).Value = ""
 Next i
 
 End Sub
+
